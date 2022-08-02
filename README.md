@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sjosuerojas 
+👋 Hi, I’m @sjosuerojas 
 
 Interdisciplinary Developer that currently is pursuing for a perfect blend of style and functionality for a wide range of interactive development. During the last 4 years I've helped global companies, organizations and start-ups reach business goals with user focused, interactive development. I enjoy bringing clarity to complex problems with a people first approach and passionate about Web & Movil technologies. 
 
