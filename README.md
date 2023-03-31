@@ -26,3 +26,22 @@ I am a complete passionate about Web & Movil technologies. Here you can watch so
 <a href="https://github.com/sjosuerojas">
   <img align="center" style="margin:0.5rem; height:200px" src="https://github-readme-stats.vercel.app/api?username=sjosuerojas&theme=dark&include_all_commits=true&hide_rank=false&show_icons=true&line_height=27&count_private=true&icon_color=20879e" alt="Josue's GitHub Stats" />
 </a>
+
+<div>
+<h3><b>📊 My GitHub Data:</b></h3>
+ <details>
+  <summary>🔥 Github Streaks</summary>
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sjosuerojas&" alt="sjosuerojas" /></p>
+ </details>
+  <details>	
+  <summary>⚡ Github Stats</summary>
+  <div> 
+    <img align="center" width="68%" height="320" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sjosuerojas&show_icons=true" />
+    <img align="center" width="28%" height="320"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sjosuerojas&show_icons=true">
+  </div>
+ </details>
+ <details>
+  <summary>🏆 Github Achievements</summary>
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sjosuerojas&margin-w=5" alt="sjosuerojas" /></a> </p>
+ </details>
+</div>
